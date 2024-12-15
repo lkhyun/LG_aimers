@@ -13,3 +13,6 @@
 ### ver2:
     - StandardScaler() -> MinMaxScaler() 변경
     - f1 score 19에서 21로 성능 증가
+
+### 최종:
+    - score 0.22093점으로 마무리
