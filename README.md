@@ -9,3 +9,7 @@
     - 차원 감소를 위한 SVD 적용
     - 비정형 데이터 해결을 위한 SMOTE 기법 적용
     - randomforest classfier 사용
+
+### ver2:
+    - StandardScaler() -> MinMaxScaler() 변경
+    - f1 score 19에서 21.679로 성능 증가
