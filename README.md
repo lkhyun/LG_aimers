@@ -4,3 +4,8 @@
 - 비정상 데이터가 정상 데이터보다 월등히 적을 때 data imbalance를 최대한 해결하는 방향으로 진행
 
 ---
+### ver1: 
+    - 결측치 제거, feature one-hot encoding등 데이터 preprocessing 진행
+    - 차원 감소를 위한 SVD 적용
+    - 비정형 데이터 해결을 위한 SMOTE 기법 적용
+    - randomforest classfier 사용
