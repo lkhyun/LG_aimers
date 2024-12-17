@@ -4,6 +4,36 @@
 - 비정상 데이터가 정상 데이터보다 월등히 적을 때 data imbalance를 최대한 해결하는 방향으로 진행
 
 ---
+
+<header>
+    <h3> 💻 팀원 소개 </h3>
+    
+</header>
+  
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+  <img src="https://avatars.githubusercontent.com/u/102892446?v=4" width="100px;" alt="Lee Kang-hyun's profile photo"/><br />
+  <sub><b>이강현</b></sub><br />
+  <a href="https://github.com/lkhyun">lkhyun</a>
+</td>
+      <td align="center">
+  <img src="https://avatars.githubusercontent.com/u/112750856?v=4" width="100px;" alt="Song Chae-young's profile photo"/><br />
+  <sub><b>송채영</b></sub><br />
+  <a href="https://github.com/cy0286">cy0286</a>
+</td>
+       <td align="center">
+  <img src="https://avatars.githubusercontent.com/u/101550897?v=4" width="100px;" alt="Jo Hyun-ho's profile photo"/><br />
+  <sub><b>조현호</b></sub><br />
+  <a href="https://github.com/178kg78cm">178kg78cm</a>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### ver1: 
     - 결측치 제거, feature one-hot encoding등 데이터 preprocessing 진행
     - 차원 감소를 위한 SVD 적용
